@@ -17,6 +17,6 @@ Desarrollar un aplicacion iot  que permita la busqueda de seres vivo en lugares 
 ## Sofware Utlizado
 |id | Sofware  | Version  |Tipo   
 |---|---|---|---|
-|   |   |   |   |  
-|   |   |   |   |   
-|   |   |   |   |  
+| 1 |Visual Studio Code   | 1.71.2  |Freware   |  
+| 2 | Arduino IDE  |2   |   2|   Freeware
+| 3 | Libreria para sensor proximidad  |    |   |  
