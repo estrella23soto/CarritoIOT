@@ -33,7 +33,7 @@ Desarrollar un aplicacion iot  que permita la busqueda de seres vivos en lugares
 |   6|  Protoboard 830 Puntos Mb-102 | El Protoboard 830 pts MB-102 es una tablilla de pruebas, que cuenta con 830 perforaciones divididas en filas horizontales y columnas verticales para realizar conexiones eléctricas, puedes conectar cualquier elemento electrónico para realizar prototipos, prácticas y simulaciones de circuitos electrónicos  | ![image](https://user-images.githubusercontent.com/106614070/193472640-0e12c7f3-c74e-4f16-9562-9829b3982a2d.png)| 1  |$52 |
 |   7| Cables Jumpers Dupont H-h, M-m, H-m 20cm 120 Pzas|  Un cable puente para prototipos (o simplemente puente para prototipos), es un cable con un conector en cada punta (o a veces sin ellos), que se usa normalmente para interconectar entre sí los componentes en una placa de pruebas. | ![image](https://user-images.githubusercontent.com/106614070/193472720-f2f6cb77-627d-4a3d-acd6-4f6ec8571d7f.png) |1   |$103   |
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- Quiero poder llegar a buscar a personas en luagres donde no puede llegar facilmente un humano mediante un sensor de movimiento 
+- Quiero poder  buscar a personas en luagres donde no puede llegar facilmente un humano mediante un sensor de movimiento 
 - Como usuario quiero poder visualizar por donde va el carrito mediante un camara conectada via bluetooth
 - Como usuario quiero poder controlar el carrito desde mi celular
 - Como usuario quiero poder estar al tanto de la temperatura ambiental donde se encuentra el carro
@@ -41,10 +41,10 @@ Desarrollar un aplicacion iot  que permita la busqueda de seres vivos en lugares
 ## Tabla de historias de usuario
 | Id  | Historia de usuario  |Prioridad |Estimación|Como probarlo | Responsable |
 |---|---|---|---|---|---|
-| 1  |Quiero poder llegar a buscar a personas en luagres donde no puede llegar facilmente un humano mediante un sensor de movimiento| Alta  | 3 semanas | Probando el sensor con la proximidad de un humano | Cesar Alegandro Ordoñez Osorio |
-| 2  | Como usuario quiero poder visualizar por donde va el carrito mediante un camara conectada via bluetooth  | Alta |  2Semanas | Probando con un aplicacion movil |Jose Manuel Sanchez Arredondo   |
+| 1  |Quiero poder  buscar a personas en luagres donde no puede llegar facilmente un humano mediante un sensor de movimiento| Alta  | 3 semanas | Probando el sensor con la proximidad de un humano | Cesar Alegandro Ordoñez Osorio |
+| 2  | Como usuario quiero poder visualizar por donde va el carrito mediante un camara conectada via bluetooth  | Alta |  2 Semanas | Probando con un aplicacion movil |Jose Manuel Sanchez Arredondo   |
 |  3 | Como usuario quiero poder controlar el carrito desde mi celular  | Alta  | 2 semanas    | Con las aplicacion movil probando que el Carro responde | Angel Gerardo Velazquez Salazar    |
-|  4 | Como usuario quiero poder estar al tanto de la temperatura ambiental donde se encuentra el carro  | Media  | 2 semanas | probarlo con la interfaz de la aplicación movil | Cruz Estrella Juárez Soto |
+|  4 | Como usuario quiero poder estar al tanto de la temperatura ambiental donde se encuentra el carro  | Media  | 2 semanas | Probarlo con la interfaz de la aplicación movil | Cruz Estrella Juárez Soto |
 
 ## Prototipo en dibujo
 ![image](https://user-images.githubusercontent.com/106614070/193474216-bae45519-1cfb-41d5-8a74-774bf847905f.png)
