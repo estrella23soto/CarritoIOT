@@ -23,8 +23,10 @@ Desarrollar un aplicacion iot  que permita la busqueda de seres vivo en lugares 
 
 ## Tabla con el hardware utilizado
 
-|   |   |   |   |   |   |
+| Id  |Componente   | Descripción | Imagen | Cantidad |Costo Total |
 |---|---|---|---|---|---|
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+|   1|  Esp32 | El módulo ESP32 es una solución de Wi-Fi/Bluetooth todo en uno, integrada y certificada que proporciona no solo la radio inalámbrica, sino también un procesador integrado con interfaces para conectarse con varios periféricos  | <img src= "https://user-images.githubusercontent.com/106614070/193470941-0653f560-54d1-4e7d-8ac5-168464d0293c.png"  width="50" height="50" />
+  |   |   |
+|   2|   |   |   |   |   |
+|   3|   |   |   |   |   |
+|   4|   |   |   |   |   |
