@@ -5,11 +5,11 @@
 3. Angel Gerardo Velazquez Salazar 
 4. Cruz Estrella Juarez Soto
 ## Objetivo General
-Desarrollar un aplicacion iot  que permita la busqueda de seres vivo en lugares especificos inalcanzables por el humano que apartir de nototificaciones,alertas visuales y sonoras, que trasmita de manera instantanea al un disposivo movil el cual tambien sera el control remoto que sera conectado por wiif y/o Bluetood
+Desarrollar un aplicacion iot  que permita la busqueda de seres vivos en lugares especificos, inalcanzables por el humano que apartir de nototificaciones,alertas visuales y sonoras, que trasmita de manera instantanea al un disposivo movil el cual tambien, sera el control remoto que sera conectado por wifi y/o Bluetood.
 
 ## Objetivos especificos 
 1. Diseñar prototipo 
-2. Codificar la aplicacion 
+2. Codificar la aplicación 
 3. Ensanlaje de piezas 
 4. Probrar porototipo 
 5. Liberar prototito 
