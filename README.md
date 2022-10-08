@@ -47,5 +47,6 @@ Desarrollar un aplicacion iot  que permita la busqueda de seres vivos en lugares
 |  4 | Como usuario quiero poder estar al tanto de la temperatura ambiental donde se encuentra el carro  | Media  | 2 semanas | Probarlo con la interfaz de la aplicación movil | Cruz Estrella Juárez Soto |
 
 ## Prototipo en dibujo
-![image](https://user-images.githubusercontent.com/106614070/193474216-bae45519-1cfb-41d5-8a74-774bf847905f.png)
+![image](https://user-images.githubusercontent.com/106614070/194731051-a35fd58b-6269-407f-b0d0-7609db255298.png)
+
 
